@@ -29,11 +29,6 @@ Product Categories: Identification of product categories driving the highest rev
 Regional Performance: Insights into regional performance variations and opportunities for growth.
 # How to Use
 Clone the Repository:
-
-bash
-
-Verify
-
 Open In Editor
 Run
 code
